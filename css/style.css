@@ -193,6 +193,7 @@ ul {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     padding-top: 93px;
     row-gap: 30px;
+    column-gap: 30px;
 }
 .card {
     width: 370px;
